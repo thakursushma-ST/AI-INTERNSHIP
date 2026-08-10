@@ -1,0 +1,14 @@
+[
+    {
+        "title": "food",
+        "amount": 500.0,
+        "category": "Food",
+        "date": "2026-08-10"
+    },
+    {
+        "title": "bills",
+        "amount": 200.0,
+        "category": "Bills",
+        "date": "2026-08-10"
+    }
+]
