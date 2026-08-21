@@ -1,0 +1,45 @@
+[
+  {
+    "id": "211e711e-8472-44f1-ae3e-18d8aaa689c0",
+    "title": "what is API key",
+    "date": "2026-08-21T15:42:55",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is API key"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I would be happy to explain what an API key is. \n\n---\n\n### The Simple Explanation\n\nThink of an **API Key** as a **digital keycard or a special password** used by software applications.\n\nJust like a keycard lets you into a specific hotel room, an **API key allows a software program to access data or services from another website or server.**\n\n---\n\n### A Real-World Example\n\nImagine you are building a **Weather App** for a smartphone project. \n\n1. Your app needs weather data, but you don't own a weather satellite.\n2. You ask a weather service (like AccuWeather) to send you their data.\n3. The weather service says: *\"Sure! But first, sign up for an account. We will give you a unique string of letters and numbers called an **API Key**.\"*\n4. Every time your app asks for weather data, it sends that key along with the request:\n   > *\"Hello! Please give me today's weather for New York. My API Key is `xyz123456`.\"*\n5. The weather service checks the key, sees that it is valid, and sends back the weather forecast.\n\n---\n\n### Why Are API Keys Used?\n\nAPI keys serve four main purposes:\n\n1. **Authentication (Identity Check):** It tells the server *who* is making the request (which developer or application).\n2. **Access Control:** It determines what you are allowed to do. For example, a free API key might let you check the weather 100 times a day, while a paid key lets you check it 10,000 times a day.\n3. **Usage Tracking and Billing:** The company providing the service can track how much you use their service and charge you accurately if it's a paid service.\n4. **Security & Abuse Prevention:** If someone tries to flood the server with spam requests, the server owner can simply deactivate that specific API key to stop the attack.\n\n---\n\n### What Does an API Key Look Like?\n\nAn API key is usually a long, random string of characters. \n\n**Example:**\n`5f8a912b-3c4d-4e5f-b6a7-890123abcdef`\n\n---\n\n### ⚠️ A Very Important Security Rule for Developers\n\nBecause an API key identifies **you**, you should treat it like a password!\n\n* **Never share your API key publicly.**\n* **Never upload it to public code sites** like GitHub.\n* If someone steals your API key, they could use up your data limit or run up charges on your account.\n\n---\n\n### Summary\n* **API** = A bridge that lets two software programs talk to each other.\n* **API Key** = The password/passcard that grants a program permission to use that bridge.\n\nDoes this make sense, or would you like to see a code example of how an API key is used?"
+      }
+    ]
+  },
+  {
+    "id": "940504af-84bc-4cfb-95ff-a396b69dac7d",
+    "title": "what is api key",
+    "date": "2026-08-21T15:36:38",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is api key"
+      }
+    ]
+  },
+  {
+    "id": "34bdab93-1c6c-40ea-b5d3-e1616f8de463",
+    "title": "what is api key",
+    "date": "2026-08-21T15:35:27",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is api key"
+      }
+    ]
+  },
+  {
+    "id": "a30aece0-513b-4398-9a47-3d5d93a33f3e",
+    "title": "New Chat",
+    "date": "2026-08-20T18:31:25",
+    "messages": []
+  }
+]
